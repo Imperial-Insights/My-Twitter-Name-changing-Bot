@@ -29,4 +29,4 @@ def main():
     print(f'Updating Twitter Name: ABHISHEK|{followers_count(user)} Followers')
     print('Waiting to refresh')
     time.sleep(60)
-main()
+main() 
